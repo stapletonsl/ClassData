@@ -9,6 +9,7 @@ Further changes were made to lesson dataset including:
 District Column changed some Manica values to MAN for exercise Fixing Data in Bulk by Facet and Edit. 
 
 GPS_Latitude Column: removed 4 values for facet by blank exercise. 
-Removed the following columns to reduce issues find columns in lesson: Province; agr_assoc; _members_count; remittance_money;years_liv; other_buildings; plots_count; window_type; parents_liv; p_parents_liv;	grand_liv;	sp_grand_liv; respondent_wall_type_other; no_group_count	yes_group_count; No_food; need_money;	money_source;	money_source_other; crops_contr; emply_lab	du_labour; du_look_aftr_cows; items_owned_other; gps_Accuracy; water_use; period_use;	exper_other; other_meth; res_change	memb_assoc; resp_assoc; fees_water; affect_conflicts; Liv_other.
+Removed the following columns to reduce issues finding columns in lesson: Province; agr_assoc; _members_count; remittance_money;years_liv; other_buildings; plots_count; window_type; parents_liv; p_parents_liv;	grand_liv;	sp_grand_liv; respondent_wall_type_other; no_group_count	yes_group_count; No_food; need_money;	money_source;	money_source_other; crops_contr; emply_lab	du_labour; du_look_aftr_cows; items_owned_other; gps_Accuracy; water_use; period_use;	exper_other; other_meth; res_change	memb_assoc; resp_assoc; fees_water; affect_conflicts; Liv_other.
 
 Grel_value_replace pulled from https://github.com/weaverbel/teachingfiles.
+Map created using http://geojson.io/, lat lon pulled from reconciled Australian universities data from WikiData. 
